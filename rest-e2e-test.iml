@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/Resources/json-path-3.1.0-dist/json-path-3.1.0-deps/commons-lang3-3.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-path-3.1.0-dist/json-path-3.1.0-deps/groovy-2.4.12.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-path-3.1.0-dist/json-path-3.1.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-path-3.1.0-dist/json-path-3.1.0-deps/groovy-json-2.4.12.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/activation-1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/hamcrest-core-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/json-schema-validator-2.2.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/json-schema-core-1.2.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/joda-time-2.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/guava-16.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/mailapi-1.4.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/jackson-core-2.7.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/rhino-1.7R4.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/jackson-annotations-2.7.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/jopt-simple-4.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/jackson-coreutils-1.8.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/msg-simple-1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/uri-template-0.9.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/jackson-databind-2.7.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/libphonenumber-6.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/jsr305-3.0.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/btf-1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/rest-assured-3.1.0-deps/commons-codec-1.9.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/rest-assured-3.1.0-deps/groovy-2.4.12.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/rest-assured-3.1.0-deps/httpmime-4.5.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/rest-assured-3.1.0-deps/groovy-xml-2.4.12.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/rest-assured-3.1.0-deps/commons-lang3-3.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/rest-assured-3.1.0-deps/commons-logging-1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/rest-assured-3.1.0-deps/hamcrest-core-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/rest-assured-3.1.0-deps/groovy-json-2.4.12.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/rest-assured-3.1.0-deps/tagsoup-1.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/rest-assured-3.1.0-deps/hamcrest-library-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/rest-assured-3.1.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/rest-assured-3.1.0-deps/httpcore-4.4.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/rest-assured-3.1.0-deps/jaxb-api-2.2.12.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/rest-assured-3.1.0-deps/httpclient-4.5.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/xml-path-3.1.0-dist/xml-path-3.1.0-deps/commons-lang3-3.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/xml-path-3.1.0-dist/xml-path-3.1.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/xml-path-3.1.0-dist/xml-path-3.1.0-deps/groovy-xml-2.4.12.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/xml-path-3.1.0-dist/xml-path-3.1.0-deps/groovy-2.4.12.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/xml-path-3.1.0-dist/xml-path-3.1.0-deps/jaxb-api-2.2.12.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/xml-path-3.1.0-dist/xml-path-3.1.0-deps/tagsoup-1.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/Resources/json-path-3.1.0-dist/docs/json-path-3.1.0-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-path-3.1.0-dist/docs/rest-assured-common-3.1.0-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/docs/json-schema-validator-3.1.0-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/docs/json-path-3.1.0-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/docs/rest-assured-common-3.1.0-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/docs/rest-assured-3.1.0-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/docs/xml-path-3.1.0-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/xml-path-3.1.0-dist/docs/rest-assured-common-3.1.0-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/xml-path-3.1.0-dist/docs/xml-path-3.1.0-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/Resources/json-path-3.1.0-dist/docs/json-path-3.1.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-path-3.1.0-dist/docs/rest-assured-common-3.1.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/docs/json-schema-validator-3.1.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/json-schema-validator-3.1.0-dist/json-schema-validator-3.1.0-deps/jsr305-3.0.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/docs/rest-assured-common-3.1.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/docs/json-path-3.1.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/docs/rest-assured-3.1.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/rest-assured-3.1.0-dist/docs/xml-path-3.1.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/xml-path-3.1.0-dist/docs/xml-path-3.1.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/Resources/xml-path-3.1.0-dist/docs/rest-assured-common-3.1.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="testng">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/plugins/testng/lib/testng.jar!/" />
+          <root url="jar://$APPLICATION_HOME_DIR$/plugins/testng/lib/jcommander.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
